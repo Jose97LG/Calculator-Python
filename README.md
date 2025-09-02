@@ -1,2 +1,2 @@
 # Calculator-Python
-Proyecto de realizar una calculadora con Python y que tenga una interfaz
+Proyecto de realizar una calculadora con Python con interfaz grafica
