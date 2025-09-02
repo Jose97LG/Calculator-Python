@@ -4,27 +4,26 @@ Operacion = input("¿Que operación quieres hacer? ")
 
 if Operacion == "sumar":
     suma = Numero1 + Numero2
-print("La suma es : ", suma)
+    print("La suma es : ", suma)
 
 if Operacion == "restar":
     resta = Numero1 - Numero2
-print("La resta es : ", resultado)
+    print("La resta es : ", resta)
 
 if Operacion == "multiplicar":
     resultado = Numero1 * Numero2
-    resultado = Numero1 * Numero2
-print("La multiplicacion es : ", resultado)
+    print("La multiplicacion es : ", resultado)
 
 if Operacion == "dividir":
     resultado = Numero1 / Numero2
-print("La division es : ", resultado)
+    print("La division es : ", resultado)
 
 if Operacion == "fraccionar":
     resultado = Numero1 / Numero2
     resultado = Numero1 + Numero2
-print("La modulo es : ", resultado)
+    print("La modulo es : ", resultado)
 
 if Operacion == "elevalo":
     resultado = Numero1 ** Numero2
-print("La exponencial es : ", resultado)
+    print("La exponencial es : ", resultado)
 
