@@ -1,3 +1,28 @@
+import tkinter as tk
+
+
+root = tk.Tk()
+root.geometry("300x300")
+root.title("Calculadora con Python")
+
+
+
+
+
+
+
+root.mainloop()
+
+
+
+
+
+
+
+
+
+
+
 Numero1 = float(input("Introduce el primer numero: "))
 Numero2 = float(input("Introduce el segundo numero: "))
 Operacion = input("¿Que operación quieres hacer? ")
@@ -26,5 +51,3 @@ if Operacion == "fraccionar":
 if Operacion == "elevalo":
     resultado = Numero1 ** Numero2
     print("La exponencial es : ", resultado)
-
-print("hola mundo")
